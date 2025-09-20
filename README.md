@@ -1,8 +1,8 @@
 MỘT SỐ LƯU Ý TRƯỚC KHI CHẠY WEB
 
-Những task đã hoàn thành :
-+) Thêm, xóa , sửa , check ID trùng 
-Những task chưa hoàn thành:
++)Những task đã hoàn thành 
+Thêm, xóa , sửa , check ID trùng 
++)Những task chưa hoàn thành:
 1) Validation cho những thứ khác
 2) Thanh Search tìm kiếm
 
